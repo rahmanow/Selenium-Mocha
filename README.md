@@ -9,9 +9,6 @@
     ✓ Click to add new theme (624ms)
     ✓ Add text box (996ms)
     ✓ Find ShadowRoot and send text to Textbox (3135ms)
-    ✓ Close the shop (189ms)
-    
-    
-    Demo: <a href="https://www.youtube.com/watch?v=MEO2fh5fHmc"> here </a>
-    
-    https://www.youtube.com/watch?v=MEO2fh5fHmc
+    ✓ Close the shop (189ms) 
+
+Demo: <a href="https://www.youtube.com/watch?v=MEO2fh5fHmc"> here </a>
